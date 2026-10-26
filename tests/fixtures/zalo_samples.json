@@ -1,0 +1,22 @@
+[
+  {
+    "event_name": "user_send_text",
+    "sender": {"id": "zalo_user_123"},
+    "recipient": {"id": "oa_98765"},
+    "message": {
+      "msg_id": "zalo_msg_001",
+      "text": "Alo bạn ơi, nhớ nộp báo cáo tuần trước 18h chiều nay nhé!"
+    },
+    "timestamp": 1792348800000
+  },
+  {
+    "event_name": "user_send_text",
+    "sender": {"id": "zalo_user_456"},
+    "recipient": {"id": "oa_98765"},
+    "message": {
+      "msg_id": "zalo_msg_002",
+      "text": "Cảm ơn bạn nhiều nha!"
+    },
+    "timestamp": 1792348900000
+  }
+]

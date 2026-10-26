@@ -1,0 +1,16 @@
+[
+  {
+    "id": "email_001",
+    "subject": "Urgent: Project Alpha Review and Deck submission",
+    "sender": "lead@company.com",
+    "body": "Hi team, please prepare the Project Alpha pitch deck and send it over before Friday 5 PM. Also remember to schedule a sync call on Monday.",
+    "is_actionable": true
+  },
+  {
+    "id": "email_002",
+    "subject": "Company Newsletter - October 2026",
+    "sender": "news@company.com",
+    "body": "Welcome to our monthly edition! We are excited to announce new employee perks and upcoming holiday schedules.",
+    "is_actionable": false
+  }
+]
